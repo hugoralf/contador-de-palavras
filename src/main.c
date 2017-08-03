@@ -4,7 +4,7 @@
  * entrada. Ao receber um caractere fim de linha ('\n'), deve imprimir na tela o
  * numero de palavras separadas que recebeu e, apos, encerrar.
  */
-/* Hugo Ralf Pereira RA:155742*/
+/* Hugo Ralf Pereira RA:155742  EA-879*/
 #include <stdio.h>
 
 int main() {
